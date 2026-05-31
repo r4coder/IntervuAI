@@ -74,6 +74,6 @@ Contributions are welcome! Please follow these steps:
 
 ## 👨‍💻 Author
 
-Built with ❤️ by **[Sonu kumar yadav](https://github.com/your-username)**
+Built with ❤️ by **r4coder**
 
 > ⭐ Star this repo if you find it helpful!
