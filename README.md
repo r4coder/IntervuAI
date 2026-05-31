@@ -1,4 +1,4 @@
-# 🚀 Intervex AI — AI-Powered Mock Interview Platform
+# 🚀 Intervu AI — AI-Powered Mock Interview Platform
 
 > Practice technical interviews with intelligent AI-driven feedback and performance analytics.
 
