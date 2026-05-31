@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-**Intervex AI** is a modern AI-powered interview preparation platform designed to help users practice technical and behavioral interviews in a realistic environment.
+**Intervu AI** is a modern AI-powered interview preparation platform designed to help users practice technical and behavioral interviews in a realistic environment.
 
 The platform simulates interview rounds, evaluates responses, provides AI-generated feedback, and helps users improve communication, problem-solving, and technical skills — all in one place.
 
