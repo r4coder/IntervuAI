@@ -83,7 +83,7 @@ export default function Footer() {
             <p className="mt-3 md:mt-0">
               Designed & Built by{" "}
               <span className="text-white/70 font-semibold hover:text-violet-400 transition-colors duration-200 cursor-pointer">
-                Sonu Kumar
+                r4coder
               </span>
             </p>
           </div>
